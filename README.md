@@ -1,5 +1,7 @@
 # Snail
 
+![alt text](snail-example.png)
+
 Little game implemented using [Tcell](https://github.com/gdamore/tcell) that can be run in a Terminal.
 
 To build and run the game you can either use `go run main.go` or just run `make run`. 
